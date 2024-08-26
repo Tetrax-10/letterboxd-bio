@@ -11,7 +11,7 @@ I'm **_progressive as hell_** 🏳️‍🌈🏳️‍⚧️💗☮️♀️♿�
 
 [My Political Stand](https://www.youtube.com/watch?v=68ixlbMQaY0&t=127s&cc_load_policy=1&cc_lang_pref=en)
 
-</br>
+<br>
 
 ## Cinema Taste:
 
@@ -19,7 +19,7 @@ I'm drawn to films that are **_visually mesmerizing_**, **_emotionally electrify
 
 Basically, cinema is my getaway car from reality.
 
-</br>
+<br>
 
 ## Quotes that describe me:
 
@@ -29,6 +29,6 @@ Basically, cinema is my getaway car from reality.
 
 **"I would rather be a free soul in a cage than a caged soul in a free world."** — _A Beautiful Mind_ (2001)
 
-</br>
+<br>
 
 **Note:** My ratings are a wild ride, highs and lows based on how the film vibes with my mood. A masterpiece might get snubbed if I’m in a funk, while a mediocre flick could soar if it hits me in the feels at just the right time.
