@@ -3,21 +3,19 @@ layout: default
 title: Raghavan's Letterboxd Bio
 ---
 
-**My Life**: 🦐 Devour 💪 Pump Iron 🤖 Code Wizard 🎧 Vibe Out 🍿 Film Junkie 🥵 Spicy Content 😴 Recharge
+**My Life**: 🦐 Eat 💪 Exercise 🤖 Code 🎧 Music 🍿 Movies 😴 Sleep
 
-I'm **_progressive as hell_** 🏳️‍🌈🏳️‍⚧️💗☮️♀️♿✊🏾🎗️⚛️, so naturally, I dive headfirst into debates, especially when the other side's stuck in the past.
-
-**Current Goal**: Death ☠️ and exploring what comes next?
-
-[My Political Stand](https://www.youtube.com/watch?v=68ixlbMQaY0&t=127s&cc_load_policy=1&cc_lang_pref=en)
+I'm **_progressive as hell_** 🏳️‍🌈🏳️‍⚧️💗☮️♀️♿✊🏾🎗️⚛️, so naturally I love arguing.
 
 <br>
 
-## My Cinema Taste:
+## My cinema taste:
 
-I'm drawn to films that are **_visually mesmerizing_**, **_emotionally electrifying_**, and **_mind-bending_** in their storytelling. The art of **_loneliness_** on screen, the allure of **_romance_** and **_eroticism_**, and **_stories_** that flip my worldview upside down, that's my kind of escape.
+I'm drawn towards **_realistic_** films that are **_visually stunning_**, **_emotionally charged_**, and **_mind-blowing_** in their storytelling. I love the depiction of **_loneliness_** in cinema, the beauty of **_romance_** and **_eroticism_**, and **_narratives_** that challenge how I see the world.
 
-Basically, cinema is my getaway car from reality.
+#### If you ask me what is cinema?
+
+I say its a **_getaway car_** to escape from reality.
 
 <br>
 
@@ -29,7 +27,7 @@ Basically, cinema is my getaway car from reality.
 
 <br>
 
-**Note:** My ratings are a wild ride, highs and lows based on how the film vibes with my mood. A masterpiece might get snubbed if I’m in a funk, while a mediocre flick could soar if it hits me in the feels at just the right time.
+**Note:** My ratings and reviews are heavily influenced by my **mood**. A masterpiece might get a lower rating if I’m in a funk, while a mediocre flick could receive higher praise if it resonates with me emotionally at the right time.
 
 ## Links
 

@@ -1,3 +1,3 @@
 # letterboxd-bio
 
-My bio for Letterboxd profile
+Bio for [my Letterboxd profile](https://letterboxd.com/Raghavan_Rave/)
