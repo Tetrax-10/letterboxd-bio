@@ -13,7 +13,7 @@ I'm **_progressive as hell_** 🏳️‍🌈🏳️‍⚧️💗☮️♀️♿�
 
 <br>
 
-## Cinema Taste:
+## My Cinema Taste:
 
 I'm drawn to films that are **_visually mesmerizing_**, **_emotionally electrifying_**, and **_mind-bending_** in their storytelling. The art of **_loneliness_** on screen, the allure of **_romance_** and **_eroticism_**, and **_stories_** that flip my worldview upside down, that's my kind of escape.
 
@@ -25,8 +25,6 @@ Basically, cinema is my getaway car from reality.
 
 **"I am no longer accepting the things I cannot change. I am changing the things I cannot accept."** — _Angela Davis: Portrait of a Revolutionary_ (1984)
 
-**"The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion."** — _Thelma & Louise_ (1991)
-
 **"I would rather be a free soul in a cage than a caged soul in a free world."** — _A Beautiful Mind_ (2001)
 
 <br>
@@ -35,6 +33,7 @@ Basically, cinema is my getaway car from reality.
 
 ## Links
 
+[<img alt="Spotify" width="50px" src="assets/icons/letterboxd.png" />](https://letterboxd.com/Raghavan_Rave/)
 [<img alt="Spotify" width="50px" src="assets/icons/tmdb.png" />](https://www.themoviedb.org/u/Raghavan_Rave)
 [<img alt="Spotify" width="50px" src="assets/icons/reddit.png" />](https://www.reddit.com/user/Raghavan_Rave10)
 [<img alt="Spotify" width="50px" src="assets/icons/spotify.png" />](https://open.spotify.com/user/31ihiyobja76jv25r7j7oj6rmjdu)
