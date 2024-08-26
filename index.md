@@ -5,7 +5,7 @@ title: Raghavan's Letterboxd Bio
 
 **My Life**: 🦐 Eat 💪 Exercise 🤖 Code 🎧 Music 🍿 Movies 😴 Sleep
 
-I'm **_progressive as hell_** 🏳️‍🌈🏳️‍⚧️💗☮️♀️♿✊🏾🎗️⚛️, so naturally I love arguing.
+I'm **_progressive as hell_** 🏳️‍🌈🏳️‍⚧️☮️♀️⚛️, so naturally I love arguing.
 
 <br>
 
@@ -29,7 +29,7 @@ I say its a **_getaway car_** to escape from reality.
 
 **Note:** My ratings and reviews are heavily influenced by my **mood**. A masterpiece might get a lower rating if I’m in a funk, while a mediocre flick could receive higher praise if it resonates with me emotionally at the right time.
 
-## Links
+## Connections
 
 [<img alt="Spotify" width="50px" src="assets/icons/letterboxd.png" />](https://letterboxd.com/Raghavan_Rave/)
 [<img alt="Spotify" width="50px" src="assets/icons/tmdb.png" />](https://www.themoviedb.org/u/Raghavan_Rave)
