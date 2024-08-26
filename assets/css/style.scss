@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+    background-image: url("assets/images/banner.jpg");
+    background-position: center;
+    position: relative;
+}
