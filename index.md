@@ -32,3 +32,8 @@ Basically, cinema is my getaway car from reality.
 <br>
 
 **Note:** My ratings are a wild ride, highs and lows based on how the film vibes with my mood. A masterpiece might get snubbed if I’m in a funk, while a mediocre flick could soar if it hits me in the feels at just the right time.
+
+## Links
+
+[<img alt="Spotify" width="40px" src="assets/icons/spotify.png" />](https://open.spotify.com/user/31ihiyobja76jv25r7j7oj6rmjdu)
+[<img alt="Spotify" width="40px" src="assets/icons/reddit.png" />](https://www.reddit.com/user/Raghavan_Rave10)
