@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Raghavan's Letterboxd bio
+title: Raghavan's Letterboxd Bio
 ---
 
 **My Life**: 🦐 Devour 💪 Pump Iron 🤖 Code Wizard 🎧 Vibe Out 🍿 Film Junkie 🥵 Spicy Content 😴 Recharge
