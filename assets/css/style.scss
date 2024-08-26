@@ -4,7 +4,8 @@
 @import "{{ site.theme }}";
 
 .page-header {
-    background-image: url("assets/images/banner.jpg");
+    background-color: unset;
+    background-image: url("https://raw.githubusercontent.com/Tetrax-10/letterboxd-bio/main/assets/images/banner.jpg");
     background-position: center;
     position: relative;
 }

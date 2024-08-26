@@ -35,5 +35,6 @@ Basically, cinema is my getaway car from reality.
 
 ## Links
 
+[<img alt="Spotify" width="40px" src="assets/icons/tmdb.png" />](https://www.themoviedb.org/u/Raghavan_Rave)
 [<img alt="Spotify" width="40px" src="assets/icons/spotify.png" />](https://open.spotify.com/user/31ihiyobja76jv25r7j7oj6rmjdu)
 [<img alt="Spotify" width="40px" src="assets/icons/reddit.png" />](https://www.reddit.com/user/Raghavan_Rave10)
