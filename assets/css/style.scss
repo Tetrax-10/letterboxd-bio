@@ -8,6 +8,11 @@ $body-link-color: #65ace6 !default;
 
 @import "{{ site.theme }}";
 
+body {
+    background-color: #181a1b;
+}
+
+// banner image
 .page-header {
     background-color: unset;
     background-image: url("https://raw.githubusercontent.com/Tetrax-10/letterboxd-bio/main/assets/images/banner.jpg");
