@@ -1,6 +1,11 @@
 ---
 ---
 
+// Text
+$section-headings-color: #67eaa9 !default;
+$body-text-color: #b2a89b !default;
+$body-link-color: #65ace6 !default;
+
 @import "{{ site.theme }}";
 
 .page-header {
