@@ -27,6 +27,18 @@ I say its a **_getaway car_** to escape from reality.
 
 <br>
 
+## Letterboxd tools I made:
+
+#### [Letterboxd Custom Backdrops](https://github.com/Tetrax-10/letterboxd-custom-backdrops)
+
+Userscript to customize letterboxd backdrops without letterboxd PATRON.
+
+<video width="100%" preload="auto" muted loop>
+    <source src="https://github.com/user-attachments/assets/2cb11c80-5b30-440d-ba17-c960e5adaf8b" type="video/mp4"/>
+</video>
+
+<br>
+
 **Note:** My ratings and reviews are heavily influenced by my **mood**. A masterpiece might get a lower rating if I’m in a funk, while a mediocre flick could receive higher praise if it resonates with me emotionally at the right time.
 
 ## Connections
