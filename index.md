@@ -33,7 +33,7 @@ I say its a **_getaway car_** to escape from reality.
 
 Userscript to customize letterboxd backdrops without letterboxd PATRON.
 
-<video width="100%" preload="auto" muted loop>
+<video autoplay muted loop>
     <source src="https://github.com/user-attachments/assets/2cb11c80-5b30-440d-ba17-c960e5adaf8b" type="video/mp4"/>
 </video>
 
