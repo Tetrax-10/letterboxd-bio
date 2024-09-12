@@ -5,10 +5,6 @@ title: Raghavan's Letterboxd Bio
 
 **My Life**: 🦐 Eat 💪 Exercise 🤖 Code 🎧 Music 🍿 Movies 😴 Sleep
 
-I'm **_progressive as hell_** 🏳️‍🌈🏳️‍⚧️☮️♀️⚛️, so naturally I love arguing.
-
-<br>
-
 ## My cinema taste:
 
 I'm drawn towards **_realistic_** films that are **_visually stunning_**, **_emotionally charged_**, and **_mind-blowing_** in their storytelling. I love the depiction of **_loneliness_** in cinema, the beauty of **_romance_** and **_eroticism_**, and **_narratives_** that challenge how I see the world.
@@ -19,7 +15,7 @@ I say its a **_getaway car_** to escape from reality.
 
 <br>
 
-## Quotes that describe me:
+## My favorite quotes:
 
 **"I am no longer accepting the things I cannot change. I am changing the things I cannot accept."** — _Angela Davis: Portrait of a Revolutionary_ (1984)
 
