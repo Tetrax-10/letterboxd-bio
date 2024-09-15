@@ -15,6 +15,23 @@ I say its a **_getaway car_** to escape from reality.
 
 <br>
 
+## My rating rules
+
+| Rating | Score | Description                                                              |
+| ------ | ----- | ------------------------------------------------------------------------ |
+| 10     | 5.0   | Perfect                                                                  |
+| 09     | 4.5   | Perfect, but with one flaw                                               |
+| 08     | 4.0   | Perfect, but with few flaws                                              |
+| 07     | 3.5   | Good movie, but not perfect                                              |
+| 06     | 3.0   | Okay, didn’t love it, but don't regret watching it                       |
+| 05     | 2.5   | Watch it or not its the same, didn’t make any impact but also wasn't bad |
+| 04     | 2.0   | Regret watching it, its bad but not trash                                |
+| 03     | 1.5   | Trash, but with a few positive aspects                                   |
+| 02     | 1.0   | Trash, but with one positive aspect                                      |
+| 01     | 0.5   | Complete trash or I hate it                                              |
+
+<br>
+
 ## My favorite quotes:
 
 **"I am no longer accepting the things I cannot change. I am changing the things I cannot accept."** — _Angela Davis: Portrait of a Revolutionary_ (1984)
