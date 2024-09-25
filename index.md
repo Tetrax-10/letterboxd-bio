@@ -42,13 +42,11 @@ I say its a **_getaway car_** to escape from reality.
 
 ## Letterboxd tools I made:
 
-#### [Letterboxd Custom Backdrops](https://github.com/Tetrax-10/letterboxd-custom-backdrops)
+#### [Letterboxd Custom Images](https://github.com/Tetrax-10/letterboxd-custom-images)
 
-Userscript to customize letterboxd backdrops without letterboxd PATRON.
+Userscript to customize letterboxd posters and backdrops without letterboxd _PATRON_.
 
-<video width="100%" autoplay muted loop controls>
-    <source src="https://github.com/user-attachments/assets/2cb11c80-5b30-440d-ba17-c960e5adaf8b" type="video/mp4"/>
-</video>
+![menu.jpg](https://raw.githubusercontent.com/Tetrax-10/letterboxd-custom-images/main/screenshots/menu.jpg)
 
 <br>
 
