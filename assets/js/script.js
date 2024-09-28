@@ -4,13 +4,5 @@ document.addEventListener("DOMContentLoaded", function () {
     links.forEach((link) => {
         // open in new tab
         link.setAttribute("target", "_blank")
-
-        // track clicks
-        link.addEventListener("click", () => {
-            gtag("event", "click", {
-                event_category: "link",
-                event_label: link.getAttribute("href"), // Use the href as the event label
-            })
-        })
     })
 })
