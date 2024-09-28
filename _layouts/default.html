@@ -9,7 +9,11 @@
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-      gtag('config', 'G-BN57JZELRK');
+      // Set cookie domain explicitly for GitHub Pages
+      gtag('config', 'G-BN57JZELRK', {
+        'cookie_flags': 'SameSite=None;Secure',
+        'cookie_domain': 'none'
+      });
     </script>
 
     <meta charset="UTF-8">
@@ -34,12 +38,5 @@
       {{ content }}
     </main>
   </body>
-  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      const links = document.querySelectorAll('a[href^="http"]');
-      links.forEach(link => {
-        link.setAttribute('target', '_blank');
-      });
-    });
-  </script>  
+  <script  src="/letterboxd-bio/assets/js/script.js"></script> 
 </html>
