@@ -50,12 +50,22 @@ Userscript to customize letterboxd posters and backdrops without letterboxd _PAT
 
 <br>
 
-**Note:** My ratings and reviews are heavily influenced by my **mood**. A masterpiece might get a lower rating if I’m in a funk, while a mediocre flick could receive higher praise if it resonates with me emotionally at the right time.
+**Note to viewers:**
+
+-   My ratings and reviews are heavily influenced by my **mood**. A masterpiece might get a lower rating if I’m in a funk, while a mediocre flick could receive higher praise if it resonates with me emotionally at the right time.
+-   If you notice any long gaps in my diary and wonder what I've been up to, I'm probably:
+
+    -   Writing a ton of code
+    -   Watching anime or reading manga, and logging it in my AniList
+    -   Or, you know... possibly dead
+
+<br>
 
 ## Connections
 
-[<img alt="Spotify" width="50px" src="assets/icons/letterboxd.png" />](https://letterboxd.com/Raghavan_Rave/)
-[<img alt="Spotify" width="50px" src="assets/icons/tmdb.png" />](https://www.themoviedb.org/u/Raghavan_Rave)
-[<img alt="Spotify" width="50px" src="assets/icons/reddit.png" />](https://www.reddit.com/user/Raghavan_Rave10)
-[<img alt="Spotify" width="50px" src="assets/icons/spotify.png" />](https://open.spotify.com/user/31ihiyobja76jv25r7j7oj6rmjdu)
-[<img alt="Spotify" width="50px" src="assets/icons/github.png" />](https://github.com/Tetrax-10)
+[<img alt="letterboxd" width="50px" src="assets/icons/letterboxd.png" />](https://letterboxd.com/Raghavan_Rave/)
+[<img alt="tmdb" width="50px" src="assets/icons/tmdb.png" />](https://www.themoviedb.org/u/Raghavan_Rave)
+[<img alt="anilist" width="50px" src="assets/icons/anilist.png" />](https://anilist.co/user/RavenSilky/)
+[<img alt="reddit" width="50px" src="assets/icons/reddit.png" />](https://www.reddit.com/user/Raghavan_Rave10)
+[<img alt="spotify" width="50px" src="assets/icons/spotify.png" />](https://open.spotify.com/user/31ihiyobja76jv25r7j7oj6rmjdu)
+[<img alt="github" width="50px" src="assets/icons/github.png" />](https://github.com/Tetrax-10)
