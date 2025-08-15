@@ -67,5 +67,6 @@ Userscript to customize letterboxd posters and backdrops without letterboxd _PAT
 [<img alt="tmdb" width="50px" src="assets/icons/tmdb.png" />](https://www.themoviedb.org/u/Raghavan_Rave)
 [<img alt="anilist" width="50px" src="assets/icons/anilist.png" />](https://anilist.co/user/RavenSilky/)
 [<img alt="spotify" width="50px" src="assets/icons/spotify.png" />](https://open.spotify.com/user/31ihiyobja76jv25r7j7oj6rmjdu)
+[<img alt="reddit" width="50px" src="assets/icons/reddit.png" />](https://www.reddit.com/user/anonymous_sfdol/)
 [<img alt="discord" width="50px" src="assets/icons/discord.png" />](https://discord.com/users/1040249560418750536)
 [<img alt="github" width="50px" src="assets/icons/github.png" />](https://github.com/Tetrax-10)
