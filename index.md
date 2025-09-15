@@ -5,29 +5,27 @@ title: Raghavan's Letterboxd Bio
 
 **My Life**: 🦐 Eat 💪 Exercise 🤖 Code 🎧 Music 🍿 Movies 😴 Sleep
 
-## My cinema taste:
+I'm mostly awake at night and happiest when it rains. Addicted to music and movies, always chasing that perfect mood. Not into social media, but I love anything that’s open, free, and progressive.
+
+## My taste in films:
 
 I'm drawn towards **_realistic_** films that are **_visually stunning_**, **_emotionally charged_**, and **_mind-blowing_** in their storytelling. I love the depiction of **_loneliness_** in cinema, the beauty of **_romance_** and **_eroticism_**, and **_narratives_** that challenge how I see the world.
 
-#### If you ask me what is cinema?
-
-I say its a **_getaway car_** to escape from reality.
-
 <br>
 
-## My rating rules
+## My fucked up rating system
 
 | Rating | Score | Description                                                              |
 | ------ | ----- | ------------------------------------------------------------------------ |
 | 10     | 5.0   | Perfect                                                                  |
-| 09     | 4.5   | Perfect, but with one flaw                                               |
+| 09     | 4.5   | Perfect, but with a flaw                                                 |
 | 08     | 4.0   | Perfect, but with few flaws                                              |
-| 07     | 3.5   | Good movie, but not perfect                                              |
-| 06     | 3.0   | Okay, didn’t love it, but don't regret watching it                       |
-| 05     | 2.5   | Watch it or not its the same, didn’t make any impact but also wasn't bad |
+| 07     | 3.5   | Good, but not perfect                                                    |
+| 06     | 3.0   | Okay, didn't love it, but don't regret watching it                       |
+| 05     | 2.5   | Watch it or not its the same, didn't make any impact but also wasn't bad |
 | 04     | 2.0   | Regret watching it, its bad but not trash                                |
-| 03     | 1.5   | Trash, but with a few positive aspects                                   |
-| 02     | 1.0   | Trash, but with one positive aspect                                      |
+| 03     | 1.5   | Trash, but with few positives                                            |
+| 02     | 1.0   | Trash, but with a positive aspect                                        |
 | 01     | 0.5   | Complete trash or I hate it                                              |
 
 <br>
@@ -48,16 +46,13 @@ Userscript to customize letterboxd posters and backdrops without letterboxd _PAT
 
 ![menu.jpg](https://raw.githubusercontent.com/Tetrax-10/letterboxd-custom-images/main/screenshots/menu.jpg)
 
+Check out my other userscripts on [Greasy Fork](https://greasyfork.org/en/users/1221808-raghavan-rave).
+
 <br>
 
 **Note to viewers:**
 
--   My ratings and reviews are heavily influenced by my **mood**. A masterpiece might get a lower rating if I’m in a funk, while a mediocre flick could receive higher praise if it resonates with me emotionally at the right time.
--   If you notice any long gaps in my diary and wonder what I've been up to, I'm probably:
-
-    -   Writing a ton of code
-    -   Watching anime or reading manga, and logging it in my AniList
-    -   Or, you know... possibly dead
+My ratings and reviews are heavily influenced by my **mood**. A masterpiece might get a lower rating if I’m in a funk, while a mediocre flick could receive higher praise if it resonates with me emotionally at the right time.
 
 <br>
 
